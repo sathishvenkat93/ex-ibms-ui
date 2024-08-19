@@ -1,6 +1,13 @@
-# React + Vite
+# Inventory and Billing Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Project gives a brief summary about the Inventory and Billing Management System
+
+Two Modules - Inventory Management, which contains Products and Stock creation to management User's Inventory
+Billing, which helps user to create and send invoices to the customer or any party required
+
+Run ```npm install``` on the project directory
+
+Once all the dependencies have been downloaded run ```npm run dev```
 
 Currently, two official plugins are available:
 
